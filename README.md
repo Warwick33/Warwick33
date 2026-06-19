@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 Data scientist with a background in physics research, telecoms network engineering, and commercial horticulture. Currently completing a Master of Applied Science in Data Science at Illinois Institute of Technology.
 
-Recent projects include a Bayesian hierarchical procurement optimisation model in PyMC and an XGBoost two-stage subscriber classifier with Optuna hyperparameter search and cost-aware objectives (Not shared here due to an NDA). On the deep learning side, I've been building sentiment classifiers in PyTorch progressing from GRU with attention through BERT/RoBERTa hybrids, with systematic multi-seed evaluation to separate genuine improvements from noise. Previously I've used a convolutional network to identify moths and flies from optical array timeseries'.
+Recent projects include a Bayesian hierarchical procurement optimisation model in PyMC and an XGBoost two-stage subscriber classifier with Optuna hyperparameter search and cost-aware objectives (Not shared here due to an NDA). On the deep learning side, I've been building sentiment classifiers in PyTorch progressing from GRU with attention through BERT/RoBERTa hybrids, with multi-seed evaluation to separate genuine improvements from noise. Previously I've used a convolutional network to identify moths and flies from optical array timeseries'.
 
 Skills: Python · PyTorch · XGBoost · PyMC · Scikit-learn · Optuna · SQL · Git
